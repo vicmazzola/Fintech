@@ -9,6 +9,10 @@
     --margin-top: 100px;
 }
 
+.bg-color {
+    background-color: #5164BF;
+}
+
 .primary-color {
     color: #5164BF;
 }
