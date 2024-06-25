@@ -64,7 +64,7 @@ button:focus {
 
 .card {
     transition: .5s;
-    height: 440px;
+    
 }
 
 .card:hover {
