@@ -67,6 +67,7 @@ button:focus {
     
 }
 
+
 .card:hover {
     background-color: var(--bg-blue-2);
 }
