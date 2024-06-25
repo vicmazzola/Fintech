@@ -76,10 +76,7 @@ button:focus {
     transform: scale(1.5);
 }
 
-.transacoes {
-    align-content: flex-start;
-    
-}
+
 
 .icon-social,
 .icon-contato {
